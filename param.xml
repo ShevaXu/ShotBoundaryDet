@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FileURL>fb0.avi</FileURL>
+<p_weightRange>50</p_weightRange>
+<p_scoreCuts>10</p_scoreCuts>
+<p_threshCut>2.7999999999999998e+000</p_threshCut>
+<p_threshGTBegin>3.1000000000000001e+000</p_threshGTBegin>
+<p_threshGTEnd>2.8999999999999999e+000</p_threshGTEnd>
+<p_GTMinLength>5</p_GTMinLength>
+<p_fusionType>1</p_fusionType>
+<withFOI>0</withFOI>
+<ThreshFOI>10</ThreshFOI>
+<outputScore>1</outputScore>
+<cutModelURL>models\CutModel.xml</cutModelURL>
+<GTCombinedModelURL>models\GTModel.xml</GTCombinedModelURL>
+<GTModel_S1>models\GTModel1.xml</GTModel_S1>
+<GTModel_S2>models\GTModel2.xml</GTModel_S2>
+<GTModel_S3>models\GTModel3.xml</GTModel_S3>
+<ThreshLateFusion>2</ThreshLateFusion>
+</opencv_storage>

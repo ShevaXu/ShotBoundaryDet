@@ -1,0 +1,14 @@
+<!DOCTYPE shotBoundaryResult SYSTEM "shotBoundaryResult.dtd">
+<shotBoundaryResult sysId="sbd" totalRunTime="7187" totalDecodeTime="2928" totalSegmentationTime="4259" processorTypeSpeed="i5 2.7GHz">
+<seg src="fb0.avi">
+<trans type="CUT" preFNum="72" postFNum="73"/>
+<trans type="DIS" preFNum="193" postFNum="204"/>
+<trans type="DIS" preFNum="343" postFNum="354"/>
+<trans type="DIS" preFNum="473" postFNum="489"/>
+<trans type="CUT" preFNum="584" postFNum="585"/>
+<trans type="CUT" preFNum="787" postFNum="788"/>
+<trans type="DIS" preFNum="900" postFNum="917"/>
+<trans type="DIS" preFNum="1177" postFNum="1187"/>
+<trans type="DIS" preFNum="1409" postFNum="1423"/>
+</seg>
+</shotBoundaryResult>
